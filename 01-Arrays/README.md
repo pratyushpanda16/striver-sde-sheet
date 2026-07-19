@@ -6,7 +6,7 @@ Part of [Striver's SDE Sheet](https://takeuforward.org/dsa/strivers-sde-sheet-to
 
 | # | Problem | Difficulty | C++ | Java | Python |
 |---|---------|------------|-----|------|--------|
-| 01 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](./cpp/01-two-sum.cpp) | [Solution](./java/01-TwoSum.java) | [Solution](./python/01_two_sum.py) |
+| 01 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/01-problem-name.cpp) | [Solution](./java/01-ProblemName.java) | [Solution](./python/01_problem_name.py) |
 | 02 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/02-problem-name.cpp) | [Solution](./java/02-ProblemName.java) | [Solution](./python/02_problem_name.py) |
 | 03 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/03-problem-name.cpp) | [Solution](./java/03-ProblemName.java) | [Solution](./python/03_problem_name.py) |
 | 04 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/04-problem-name.cpp) | [Solution](./java/04-ProblemName.java) | [Solution](./python/04_problem_name.py) |
