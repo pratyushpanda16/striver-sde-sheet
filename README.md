@@ -1,3 +1,5 @@
+![GitHub Streak](https://streak-stats.demolab.com?user=pratyushpanda16&theme=dark)
+
 # Striver's SDE Sheet — Solutions
 
 My solutions to [Striver's SDE Sheet](https://takeuforward.org/dsa/strivers-sde-sheet-top-coding-interview-problems) — 191 curated interview problems (25 Easy / 93 Medium / 73 Hard) — implemented in **C++**, **Java**, and **Python**.
