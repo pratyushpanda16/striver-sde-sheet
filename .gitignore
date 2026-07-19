@@ -1,0 +1,22 @@
+# C++
+*.o
+*.out
+*.exe
+a.out
+
+# Java
+*.class
+*.jar
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
