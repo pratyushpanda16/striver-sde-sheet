@@ -11,7 +11,7 @@ My solutions to [Striver's SDE Sheet](https://takeuforward.org/dsa/strivers-sde-
 | 01 | [Arrays](./01-Arrays) | 6 | 🟩🟩🟩🟩🟩🟩 6/6 |
 | 02 | [Arrays Part-II](./02-Arrays-Part-II) | 6 | 🟩🟩🟩🟩🟩🟩 6/6 |
 | 03 | [Arrays Part-III](./03-Arrays-Part-III) | 6 | 🟩🟩🟩🟩🟩🟩 6/6 |
-| 04 | [Arrays Part-IV](./04-Arrays-Part-IV) | 6 | 🟩⬜⬜⬜⬜⬜ 1/6 |
+| 04 | [Arrays Part-IV](./04-Arrays-Part-IV) | 6 | 🟩🟩🟩🟩🟩🟩 6/6 |
 | 05 | [Linked List](./05-Linked-List) | 6 | ⬜⬜⬜⬜⬜⬜ 0/6 |
 | 06 | [Linked List Part-II](./06-Linked-List-Part-II) | 6 | ⬜⬜⬜⬜⬜⬜ 0/6 |
 | 07 | [Linked List and Arrays](./07-Linked-List-and-Arrays) | 6 | ⬜⬜⬜⬜⬜⬜ 0/6 |
