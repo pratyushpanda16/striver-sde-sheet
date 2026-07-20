@@ -6,15 +6,12 @@ Part of [Striver's SDE Sheet](https://takeuforward.org/dsa/strivers-sde-sheet-to
 
 | # | Problem | Difficulty | C++ | Java | Python |
 |---|---------|------------|-----|------|--------|
-| 01 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/01-problem-name.cpp) | [Solution](./java/01-ProblemName.java) | [Solution](./python/01_problem_name.py) |
-| 02 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/02-problem-name.cpp) | [Solution](./java/02-ProblemName.java) | [Solution](./python/02_problem_name.py) |
-| 03 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/03-problem-name.cpp) | [Solution](./java/03-ProblemName.java) | [Solution](./python/03_problem_name.py) |
-| 04 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/04-problem-name.cpp) | [Solution](./java/04-ProblemName.java) | [Solution](./python/04_problem_name.py) |
-| 05 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/05-problem-name.cpp) | [Solution](./java/05-ProblemName.java) | [Solution](./python/05_problem_name.py) |
-| 06 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/06-problem-name.cpp) | [Solution](./java/06-ProblemName.java) | [Solution](./python/06_problem_name.py) |
-
-> Fill in each problem's name, link, and difficulty from the sheet as you solve it, then rename the
-> placeholder files below to match (see naming convention in the root README).
+| 01 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | Medium | [Solution](./cpp/01-set-matrix-zeroes.cpp) | [Solution](./java/01-SetMatrixZeroes.java) | [Solution](./python/01_set_matrix_zeroes.py) |
+| 02 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [Solution](./cpp/02-pascals-triangle.cpp) | [Solution](./java/02-PascalsTriangle.java) | [Solution](./python/02_pascals_triangle.py) |
+| 03 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | [Solution](./cpp/03-next-permutation.cpp) | [Solution](./java/03-NextPermutation.java) | [Solution](./python/03_next_permutation.py) |
+| 04 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [Solution](./cpp/04-maximum-subarray.cpp) | [Solution](./java/04-MaximumSubarray.java) | [Solution](./python/04_maximum_subarray.py) |
+| 05 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Solution](./cpp/05-sort-colors.cpp) | [Solution](./java/05-SortColors.java) | [Solution](./python/05_sort_colors.py) |
+| 06 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Solution](./cpp/06-best-time-to-buy-and-sell-stock.cpp) | [Solution](./java/06-BestTimeToBuyAndSellStock.java) | [Solution](./python/06_best_time_to_buy_and_sell_stock.py) |
 
 ## Naming Convention
 - **C++**: `cpp/NN-problem-name.cpp`
