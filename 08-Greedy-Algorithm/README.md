@@ -6,15 +6,12 @@ Part of [Striver's SDE Sheet](https://takeuforward.org/dsa/strivers-sde-sheet-to
 
 | # | Problem | Difficulty | C++ | Java | Python |
 |---|---------|------------|-----|------|--------|
-| 01 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/01-problem-name.cpp) | [Solution](./java/01-ProblemName.java) | [Solution](./python/01_problem_name.py) |
-| 02 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/02-problem-name.cpp) | [Solution](./java/02-ProblemName.java) | [Solution](./python/02_problem_name.py) |
-| 03 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/03-problem-name.cpp) | [Solution](./java/03-ProblemName.java) | [Solution](./python/03_problem_name.py) |
-| 04 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/04-problem-name.cpp) | [Solution](./java/04-ProblemName.java) | [Solution](./python/04_problem_name.py) |
-| 05 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/05-problem-name.cpp) | [Solution](./java/05-ProblemName.java) | [Solution](./python/05_problem_name.py) |
-| 06 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/06-problem-name.cpp) | [Solution](./java/06-ProblemName.java) | [Solution](./python/06_problem_name.py) |
-
-> Fill in each problem's name, link, and difficulty from the sheet as you solve it, then rename the
-> placeholder files below to match (see naming convention in the root README).
+| 01 | [N Meetings in One Room](https://takeuforward.org/plus/dsa/problems/n-meetings-in-one-room?source=strivers-sde-sheet) | Medium | [Solution](./cpp/01-n-meetings-in-one-room.cpp) | [Solution](./java/01-NMeetingsInOneRoom.java) | [Solution](./python/01_n_meetings_in_one_room.py) |
+| 02 | [Minimum Number of Platforms Required for a Railway](https://takeuforward.org/plus/dsa/problems/minimum-number-of-platforms-required-for-a-railway?source=strivers-sde-sheet) | Medium | [Solution](./cpp/02-minimum-number-of-platforms.cpp) | [Solution](./java/02-MinimumNumberOfPlatforms.java) | [Solution](./python/02_minimum_number_of_platforms.py) |
+| 03 | [Job Sequencing Problem](https://takeuforward.org/plus/dsa/problems/job-sequencing-problem?source=strivers-sde-sheet) | Medium | [Solution](./cpp/03-job-sequencing-problem.cpp) | [Solution](./java/03-JobSequencingProblem.java) | [Solution](./python/03_job_sequencing_problem.py) |
+| 04 | [Fractional Knapsack](https://takeuforward.org/plus/dsa/problems/fractional-knapsack?source=strivers-sde-sheet) | Medium | [Solution](./cpp/04-fractional-knapsack.cpp) | [Solution](./java/04-FractionalKnapsack.java) | [Solution](./python/04_fractional_knapsack.py) |
+| 05 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [Solution](./cpp/05-coin-change.cpp) | [Solution](./java/05-CoinChange.java) | [Solution](./python/05_coin_change.py) |
+| 06 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | [Solution](./cpp/06-assign-cookies.cpp) | [Solution](./java/06-AssignCookies.java) | [Solution](./python/06_assign_cookies.py) |
 
 ## Naming Convention
 - **C++**: `cpp/NN-problem-name.cpp`
