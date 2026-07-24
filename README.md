@@ -16,7 +16,7 @@ My solutions to [Striver's SDE Sheet](https://takeuforward.org/dsa/strivers-sde-
 | 06 | [Linked List Part-II](./06-Linked-List-Part-II) | 6 | 🟩🟩🟩🟩🟩🟩 6/6 |
 | 07 | [Linked List and Arrays](./07-Linked-List-and-Arrays) | 6 | 🟩🟩🟩🟩🟩🟩 6/6 |
 | 08 | [Greedy Algorithm](./08-Greedy-Algorithm) | 6 | 🟩🟩🟩🟩🟩🟩 6/6 |
-| 09 | [Recursion](./09-Recursion) | 6 | ⬜⬜⬜⬜⬜⬜ 0/6 |
+| 09 | [Recursion](./09-Recursion) | 6 | 🟩🟩🟩🟩🟩🟩 6/6 |
 | 10 | [Recursion and Backtracking](./10-Recursion-and-Backtracking) | 6 | ⬜⬜⬜⬜⬜⬜ 0/6 |
 | 11 | [Binary Search](./11-Binary-Search) | 8 | ⬜⬜⬜⬜⬜⬜⬜⬜ 0/8 |
 | 12 | [Heaps](./12-Heaps) | 6 | ⬜⬜⬜⬜⬜⬜ 0/6 |
