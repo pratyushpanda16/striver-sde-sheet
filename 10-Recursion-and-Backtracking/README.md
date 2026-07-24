@@ -6,15 +6,12 @@ Part of [Striver's SDE Sheet](https://takeuforward.org/dsa/strivers-sde-sheet-to
 
 | # | Problem | Difficulty | C++ | Java | Python |
 |---|---------|------------|-----|------|--------|
-| 01 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/01-problem-name.cpp) | [Solution](./java/01-ProblemName.java) | [Solution](./python/01_problem_name.py) |
-| 02 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/02-problem-name.cpp) | [Solution](./java/02-ProblemName.java) | [Solution](./python/02_problem_name.py) |
-| 03 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/03-problem-name.cpp) | [Solution](./java/03-ProblemName.java) | [Solution](./python/03_problem_name.py) |
-| 04 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/04-problem-name.cpp) | [Solution](./java/04-ProblemName.java) | [Solution](./python/04_problem_name.py) |
-| 05 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/05-problem-name.cpp) | [Solution](./java/05-ProblemName.java) | [Solution](./python/05_problem_name.py) |
-| 06 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/06-problem-name.cpp) | [Solution](./java/06-ProblemName.java) | [Solution](./python/06_problem_name.py) |
-
-> Fill in each problem's name, link, and difficulty from the sheet as you solve it, then rename the
-> placeholder files below to match (see naming convention in the root README).
+| 01 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | [Solution](./cpp/01-permutations.cpp) | [Solution](./java/01-Permutations.java) | [Solution](./python/01_permutations.py) |
+| 02 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [Solution](./cpp/02-n-queens.cpp) | [Solution](./java/02-NQueens.java) | [Solution](./python/02_n_queens.py) |
+| 03 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | [Solution](./cpp/03-sudoku-solver.cpp) | [Solution](./java/03-SudokuSolver.java) | [Solution](./python/03_sudoku_solver.py) |
+| 04 | [M-Coloring Problem](https://takeuforward.org/plus/dsa/problems/m-coloring-problem?source=strivers-sde-sheet) | Medium | [Solution](./cpp/04-m-coloring-problem.cpp) | [Solution](./java/04-MColoringProblem.java) | [Solution](./python/04_m_coloring_problem.py) |
+| 05 | [Rat in a Maze](https://takeuforward.org/plus/dsa/problems/rat-in-a-maze?source=strivers-sde-sheet) | Medium | [Solution](./cpp/05-rat-in-a-maze.cpp) | [Solution](./java/05-RatInAMaze.java) | [Solution](./python/05_rat_in_a_maze.py) |
+| 06 | [Word Break](https://takeuforward.org/plus/dsa/problems/word-break?source=strivers-sde-sheet) | Medium | [Solution](./cpp/06-word-break.cpp) | [Solution](./java/06-WordBreak.java) | [Solution](./python/06_word_break.py) |
 
 ## Naming Convention
 - **C++**: `cpp/NN-problem-name.cpp`
