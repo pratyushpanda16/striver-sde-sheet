@@ -18,7 +18,7 @@ My solutions to [Striver's SDE Sheet](https://takeuforward.org/dsa/strivers-sde-
 | 08 | [Greedy Algorithm](./08-Greedy-Algorithm) | 6 | 🟩🟩🟩🟩🟩🟩 6/6 |
 | 09 | [Recursion](./09-Recursion) | 6 | 🟩🟩🟩🟩🟩🟩 6/6 |
 | 10 | [Recursion and Backtracking](./10-Recursion-and-Backtracking) | 6 | 🟩🟩🟩🟩🟩🟩 6/6 |
-| 11 | [Binary Search](./11-Binary-Search) | 8 | ⬜⬜⬜⬜⬜⬜⬜⬜ 0/8 |
+| 11 | [Binary Search](./11-Binary-Search) | 8 | 🟩🟩🟩🟩🟩🟩🟩🟩 8/8 |
 | 12 | [Heaps](./12-Heaps) | 6 | ⬜⬜⬜⬜⬜⬜ 0/6 |
 | 13 | [Stack and Queue](./13-Stack-and-Queue) | 7 | ⬜⬜⬜⬜⬜⬜⬜ 0/7 |
 | 14 | [Stack and Queue Part-II](./14-Stack-and-Queue-Part-II) | 10 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0/10 |
