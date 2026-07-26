@@ -24,7 +24,7 @@ My solutions to [Striver's SDE Sheet](https://takeuforward.org/dsa/strivers-sde-
 | 14 | [Stack and Queue Part-II](./14-Stack-and-Queue-Part-II) | 10 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 10/10 |
 | 15 | [String](./15-String) | 6 | 🟩🟩🟩🟩🟩🟩 6/6 |
 | 16 | [String Part-II](./16-String-Part-II) | 6 | 🟩🟩🟩🟩🟩🟩 6/6 |
-| 17 | [Binary Tree](./17-Binary-Tree) | 12 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0/12 |
+| 17 | [Binary Tree](./17-Binary-Tree) | 12 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 12/12 |
 | 18 | [Binary Tree Part-II](./18-Binary-Tree-Part-II) | 8 | ⬜⬜⬜⬜⬜⬜⬜⬜ 0/8 |
 | 19 | [Binary Tree Part-III](./19-Binary-Tree-Part-III) | 7 | ⬜⬜⬜⬜⬜⬜⬜ 0/7 |
 | 20 | [Binary Search Tree](./20-Binary-Search-Tree) | 7 | ⬜⬜⬜⬜⬜⬜⬜ 0/7 |
