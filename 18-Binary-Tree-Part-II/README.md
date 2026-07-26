@@ -6,17 +6,14 @@ Part of [Striver's SDE Sheet](https://takeuforward.org/dsa/strivers-sde-sheet-to
 
 | # | Problem | Difficulty | C++ | Java | Python |
 |---|---------|------------|-----|------|--------|
-| 01 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/01-problem-name.cpp) | [Solution](./java/01-ProblemName.java) | [Solution](./python/01_problem_name.py) |
-| 02 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/02-problem-name.cpp) | [Solution](./java/02-ProblemName.java) | [Solution](./python/02_problem_name.py) |
-| 03 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/03-problem-name.cpp) | [Solution](./java/03-ProblemName.java) | [Solution](./python/03_problem_name.py) |
-| 04 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/04-problem-name.cpp) | [Solution](./java/04-ProblemName.java) | [Solution](./python/04_problem_name.py) |
-| 05 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/05-problem-name.cpp) | [Solution](./java/05-ProblemName.java) | [Solution](./python/05_problem_name.py) |
-| 06 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/06-problem-name.cpp) | [Solution](./java/06-ProblemName.java) | [Solution](./python/06_problem_name.py) |
-| 07 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/07-problem-name.cpp) | [Solution](./java/07-ProblemName.java) | [Solution](./python/07_problem_name.py) |
-| 08 | _(add problem name + LeetCode/GFG link)_ | — | [Solution](./cpp/08-problem-name.cpp) | [Solution](./java/08-ProblemName.java) | [Solution](./python/08_problem_name.py) |
-
-> Fill in each problem's name, link, and difficulty from the sheet as you solve it, then rename the
-> placeholder files below to match (see naming convention in the root README).
+| 01 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [Solution](./cpp/01-binary-tree-level-order-traversal.cpp) | [Solution](./java/01-BinaryTreeLevelOrderTraversal.java) | [Solution](./python/01_binary_tree_level_order_traversal.py) |
+| 02 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [Solution](./cpp/02-maximum-depth-of-binary-tree.cpp) | [Solution](./java/02-MaximumDepthOfBinaryTree.java) | [Solution](./python/02_maximum_depth_of_binary_tree.py) |
+| 03 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [Solution](./cpp/03-diameter-of-binary-tree.cpp) | [Solution](./java/03-DiameterOfBinaryTree.java) | [Solution](./python/03_diameter_of_binary_tree.py) |
+| 04 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | [Solution](./cpp/04-balanced-binary-tree.cpp) | [Solution](./java/04-BalancedBinaryTree.java) | [Solution](./python/04_balanced_binary_tree.py) |
+| 05 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | [Solution](./cpp/05-lowest-common-ancestor-of-a-binary-tree.cpp) | [Solution](./java/05-LowestCommonAncestorOfABinaryTree.java) | [Solution](./python/05_lowest_common_ancestor_of_a_binary_tree.py) |
+| 06 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [Solution](./cpp/06-same-tree.cpp) | [Solution](./java/06-SameTree.java) | [Solution](./python/06_same_tree.py) |
+| 07 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | [Solution](./cpp/07-binary-tree-zigzag-level-order-traversal.cpp) | [Solution](./java/07-BinaryTreeZigzagLevelOrderTraversal.java) | [Solution](./python/07_binary_tree_zigzag_level_order_traversal.py) |
+| 08 | [Boundary of Binary Tree](https://algomaster.io/practice/dsa/boundary-of-binary-tree?list=am-600) | Medium | [Solution](./cpp/08-boundary-of-binary-tree.cpp) | [Solution](./java/08-BoundaryOfBinaryTree.java) | [Solution](./python/08_boundary_of_binary_tree.py) |
 
 ## Naming Convention
 - **C++**: `cpp/NN-problem-name.cpp`
