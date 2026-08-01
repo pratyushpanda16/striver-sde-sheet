@@ -25,13 +25,13 @@ My solutions to [Striver's SDE Sheet](https://takeuforward.org/dsa/strivers-sde-
 | 15 | [String](./15-String) | 6 | 🟩🟩🟩🟩🟩🟩 6/6 |
 | 16 | [String Part-II](./16-String-Part-II) | 6 | 🟩🟩🟩🟩🟩🟩 6/6 |
 | 17 | [Binary Tree](./17-Binary-Tree) | 12 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 12/12 |
-| 18 | [Binary Tree Part-II](./18-Binary-Tree-Part-II) | 8 | ⬜⬜⬜⬜⬜⬜⬜⬜ 0/8 |
-| 19 | [Binary Tree Part-III](./19-Binary-Tree-Part-III) | 7 | ⬜⬜⬜⬜⬜⬜⬜ 0/7 |
-| 20 | [Binary Search Tree](./20-Binary-Search-Tree) | 7 | ⬜⬜⬜⬜⬜⬜⬜ 0/7 |
-| 21 | [Binary Search Tree Part-II](./21-Binary-Search-Tree-Part-II) | 8 | ⬜⬜⬜⬜⬜⬜⬜⬜ 0/8 |
-| 22 | [Binary Trees \[Miscellaneous\]](./22-Binary-Trees-Miscellaneous) | 6 | ⬜⬜⬜⬜⬜⬜ 0/6 |
-| 23 | [Graph](./23-Graph) | 12 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0/12 |
-| 24 | [Graph Part-II](./24-Graph-Part-II) | 6 | ⬜⬜⬜⬜⬜⬜ 0/6 |
+| 18 | [Binary Tree Part-II](./18-Binary-Tree-Part-II) | 8 | 🟩🟩🟩🟩🟩🟩🟩🟩 8/8 |
+| 19 | [Binary Tree Part-III](./19-Binary-Tree-Part-III) | 7 | 🟩🟩🟩🟩🟩🟩🟩 7/7 |
+| 20 | [Binary Search Tree](./20-Binary-Search-Tree) | 7 | 🟩🟩🟩🟩🟩🟩🟩 7/7 |
+| 21 | [Binary Search Tree Part-II](./21-Binary-Search-Tree-Part-II) | 8 | 🟩🟩🟩🟩🟩🟩🟩🟩 8/8 |
+| 22 | [Binary Trees \[Miscellaneous\]](./22-Binary-Trees-Miscellaneous) | 6 | 🟩🟩🟩🟩🟩🟩 6/6 |
+| 23 | [Graph](./23-Graph) | 12 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 12/12 |
+| 24 | [Graph Part-II](./24-Graph-Part-II) | 6 | 🟩🟩🟩🟩🟩🟩 6/6 |
 | 25 | [Dynamic Programming](./25-Dynamic-Programming) | 7 | ⬜⬜⬜⬜⬜⬜⬜ 0/7 |
 | 26 | [Dynamic Programming Part-II](./26-Dynamic-Programming-Part-II) | 8 | ⬜⬜⬜⬜⬜⬜⬜⬜ 0/8 |
 | 27 | [Trie](./27-Trie) | 7 | ⬜⬜⬜⬜⬜⬜⬜ 0/7 |
