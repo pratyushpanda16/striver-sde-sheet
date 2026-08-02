@@ -44,6 +44,14 @@ C++ • Java • Python
 
 [Striver's SDE Sheet — takeUforward](https://takeuforward.org/dsa/strivers-sde-sheet-top-coding-interview-problems)
 
+## Credits
+
+This repository contains my personal Java solutions to the problems from the Striver SDE Sheet.
+
+The original SDE Sheet is created by Striver (Raj Vikramaditya) through TakeUForward.
+
+This repository is intended for learning and interview preparation and is not affiliated with or endorsed by TakeUForward.
+
 ## License
 
 MIT — see [LICENSE](./LICENSE).
