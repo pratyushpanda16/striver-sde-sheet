@@ -34,7 +34,7 @@ My solutions to [Striver's SDE Sheet](https://takeuforward.org/dsa/strivers-sde-
 | 24 | [Graph Part-II](./24-Graph-Part-II) | 6 | 🟩🟩🟩🟩🟩🟩 6/6 |
 | 25 | [Dynamic Programming](./25-Dynamic-Programming) | 7 | 🟩🟩🟩🟩🟩🟩🟩 7/7 |
 | 26 | [Dynamic Programming Part-II](./26-Dynamic-Programming-Part-II) | 8 | 🟩🟩🟩🟩🟩🟩🟩🟩 8/8 |
-| 27 | [Trie](./27-Trie) | 7 | ⬜⬜⬜⬜⬜⬜⬜ 0/7 |
+| 27 | [Trie](./27-Trie) | 7 | 🟩🟩🟩🟩🟩🟩🟩 7/7 |
 
 ## Languages
 
