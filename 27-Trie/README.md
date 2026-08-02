@@ -1,4 +1,4 @@
-# Trie
+# Trie   
 
 Part of [Striver's SDE Sheet](https://takeuforward.org/dsa/strivers-sde-sheet-top-coding-interview-problems) — **7 problems** in this section.
 
