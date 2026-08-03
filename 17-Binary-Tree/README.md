@@ -1,4 +1,4 @@
-# Binary Tree  
+# Binary Tree     
 
 Part of [Striver's SDE Sheet](https://takeuforward.org/dsa/strivers-sde-sheet-top-coding-interview-problems) — **12 problems** in this section.
 
