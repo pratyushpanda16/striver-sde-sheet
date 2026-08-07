@@ -1,4 +1,4 @@
-# Arrays
+# Arrays  
    
 Part of [Striver's SDE Sheet](https://takeuforward.org/dsa/strivers-sde-sheet-top-coding-interview-problems) — **6 problems** in this section.
 
